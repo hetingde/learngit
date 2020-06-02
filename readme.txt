@@ -5,4 +5,3 @@ Git tracks changes of files
 just test
 test1
 test2
-Createing a new branch is quick.
